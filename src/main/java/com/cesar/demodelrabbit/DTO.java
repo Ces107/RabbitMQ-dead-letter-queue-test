@@ -15,5 +15,4 @@ public class DTO implements Serializable {
     private String content;
     private String id;
 
-
 }
