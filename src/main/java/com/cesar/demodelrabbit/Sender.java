@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 public class Sender {
 
     private final RabbitTemplate rabbitTemplate;
-    private static final String QUEUE_NAME = "demo.queue";
+    private static final String QUEUE_NAME = "app.queue.Patata";
 
     public Sender(RabbitTemplate rabbitTemplate) {
         this.rabbitTemplate = rabbitTemplate;

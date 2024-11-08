@@ -19,6 +19,7 @@ public class Controller {
     @PostMapping
     public String sendMessage(@RequestBody DTO message) {
         messageSender.sendMessage(message);
+
         return "Mensaje enviado";
     }
 }

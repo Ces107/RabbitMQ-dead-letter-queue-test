@@ -39,5 +39,5 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository** (or download the source code):
 
    ```bash
-   git clone https://github.com/yourusername/rabbitmq-dlq-demo.git
+   git clone https://github.com/ces107/rabbitmq-dlq-demo.git
    cd rabbitmq-dlq-demo
