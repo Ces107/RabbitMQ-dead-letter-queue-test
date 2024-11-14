@@ -31,8 +31,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository** (or download the source code):
 
    ```bash
-   git clone https://github.com/yourusername/rabbitmq-dlq-demo.git
-   cd rabbitmq-dlq-demo
+   git clone https://github.com/Ces107/RabbitMQ-dead-letter-queue-test-/
    ```
 
 2. **Build the project using Maven**:
