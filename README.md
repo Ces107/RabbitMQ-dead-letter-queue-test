@@ -9,16 +9,13 @@ Follow this guide to set up, run, and test the project on your local machine.
 
 ## 📋 Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Running the Application](#running-the-application)
-- [Testing the API](#testing-the-api)
-    - [Send a Message](#send-a-message)
-    - [Dead Letter Queue Behavior](#dead-letter-queue-behavior)
-- [Monitoring RabbitMQ](#monitoring-rabbitmq)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#-prerequisites)
+- [Installation](#%EF%B8%8F-installation)
+- [Project Structure](#-project-structure)
+- [Running the Application](#%EF%B8%8F-running-the-application)
+- [Testing the API](#-testing-the-api)
+    - [Send a Message](#1-send-a-message)
+    - [Dead Letter Queue Behavior](#2-dead-letter-queue-behavior)
 
 ## 📋 Prerequisites
 
