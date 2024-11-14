@@ -115,11 +115,22 @@ http://localhost:8080
 
 ```json
 {
-  "title": "Test Message",
+  "title": "Test Message",  
   "content": "This is a test message",
-  "id": "12345"
+  "id": "42"
 }
 ```
+
+# If title = "error" it will produce a Exception in receiver:
+```json
+{
+  "title": "error",  
+  "content": "This is a test error message",
+  "id": "1337"
+}
+```
+
+
 
 #### **cURL Command**
 
